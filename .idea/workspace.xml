@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e163c468-249b-4df0-bec6-cf81fd768d17" name="Changes" comment="">
+    <list default="true" id="e163c468-249b-4df0-bec6-cf81fd768d17" name="Changes" comment="code">
+      <change afterPath="$PROJECT_DIR$/src/sep/ex_04092024/Lab002.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sep/ex_04092024/Lab003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sep/ex_06092024/Lab004.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sep/ex_06092024/Lab005.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sep/ex_06092024/Lab006.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sep/ex_06092024/Lab007.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sep/ex_06092024/Lab008.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,6 +22,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="AnnotationType" />
+        <option value="Exception" />
         <option value="Class" />
       </list>
     </option>
@@ -22,35 +31,62 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Soundarya-priya"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Soundarya-priya&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Soundarya-priya/ATB8xJavaPrograms.git",
-    "accountId": "e8a5f8cf-4f89-4138-9f10-c325498aeedb"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Soundarya-priya/ATB8xJavaPrograms.git&quot;,
+    &quot;accountId&quot;: &quot;e8a5f8cf-4f89-4138-9f10-c325498aeedb&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2mshb7o3TPSRYBbChFkWoWYQ6Zf" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Lab004.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/admin/IdeaProjects/ATB8xJavaPrograms/src/Main.java"
+    "onboarding.tips.debug.path": "C:/Users/admin/IdeaProjects/ATB8xJavaPrograms/src/Main.java",
+    "settings.editor.selected.configurable": "advanced.settings"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Lab004" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sep.ex_06092024.Lab004" />
+      <module name="ATB8xJavaPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sep.ex_06092024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Lab004" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -60,7 +96,20 @@
       <option name="presentableId" value="Default" />
       <updated>1727871276502</updated>
     </task>
+    <task id="LOCAL-00001" summary="code">
+      <option name="closed" value="true" />
+      <created>1728011466044</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728011466044</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="code" />
+    <option name="LAST_COMMIT_MESSAGE" value="code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -72,5 +121,10 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ATB8xJavaPrograms$Lab004.ic" NAME="Lab004 Coverage Results" MODIFIED="1728013850010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>sep.ex_06092024.*</FILTER>
+    </SUITE>
   </component>
 </project>
