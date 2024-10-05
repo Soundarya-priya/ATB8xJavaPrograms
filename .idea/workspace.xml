@@ -4,15 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e163c468-249b-4df0-bec6-cf81fd768d17" name="Changes" comment="code">
-      <change afterPath="$PROJECT_DIR$/src/sep/ex_04092024/Lab002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sep/ex_04092024/Lab003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sep/ex_06092024/Lab004.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sep/ex_06092024/Lab005.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sep/ex_06092024/Lab006.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sep/ex_06092024/Lab007.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sep/ex_06092024/Lab008.java" afterDir="false" />
+    <list default="true" id="e163c468-249b-4df0-bec6-cf81fd768d17" name="Changes" comment="06/09/2024 programs">
+      <change afterPath="$PROJECT_DIR$/src/sep/ex_09092024/Lab009.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sep/ex_09092024/Lab010.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sep/ex_09092024/Lab011.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sep/ex_09092024/Lab_Class_Test_Why_Yes_Pramod.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sep/ex_06092024/Lab006.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sep/ex_06092024/Lab006.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,16 +55,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Lab004.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/admin/IdeaProjects/ATB8xJavaPrograms/src/Main.java",
-    "settings.editor.selected.configurable": "advanced.settings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Lab004.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab006.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/admin/IdeaProjects/ATB8xJavaPrograms/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Lab004" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sep.ex_06092024.Lab004" />
@@ -104,12 +103,21 @@
       <option name="project" value="LOCAL" />
       <updated>1728011466044</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="06/09/2024 programs">
+      <option name="closed" value="true" />
+      <created>1728022866516</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1728022866516</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="code" />
-    <option name="LAST_COMMIT_MESSAGE" value="code" />
+    <MESSAGE value="06/09/2024 programs" />
+    <option name="LAST_COMMIT_MESSAGE" value="06/09/2024 programs" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -9,3 +9,4 @@ public class Lab006 {
         System.out.println(2/2);
     }
 }
+
