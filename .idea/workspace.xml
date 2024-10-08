@@ -4,14 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e163c468-249b-4df0-bec6-cf81fd768d17" name="Changes" comment="09/09/2024 programs">
-      <change afterPath="$PROJECT_DIR$/src/sep/ex_11102024/Lab012.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sep/ex_11102024/Lab013.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sep/ex_11102024/Lab014.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sep/ex_11102024/Lab015.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sep/ex_11102024/Lab016.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sep/ex_11102024/Lab017.java" afterDir="false" />
+    <list default="true" id="e163c468-249b-4df0-bec6-cf81fd768d17" name="Changes" comment="11/09/2024 programs">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sep/ex_13092024/Lab020.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sep/ex_13092024/Lab021.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sep/ex_13092024/Lab022.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sep/ex_13092024/Lab023.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sep/ex_13092024/Lab024.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sep/ex_13092024/Lab025.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sep/ex_13092024/Lab026.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sep/ex_13092024/Lab027.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sep/ex_13092024/Lab028.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sep/ex_13092024/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sep/ex_13092024/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sep/ex_16092024/Lab029.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sep/ex_16092024/Lab030_Assignment_operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sep/ex_16092024/Lab031_Arithmetic_operators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sep/ex_16092024/Lab032.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sep/ex_16092024/Lab033_Unary_operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sep/ex_16092024/Lab034.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sep/ex_16092024/Lab035.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sep/ex_16092024/Lab036.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sep/ex_16092024/Lab037_Compund_assignment_operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sep/ex_16092024/Lab038_Relational_operators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sep/ex_16092024/Lab040.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sep/ex_16092024/Lab041.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sep/ex_16092024/Lab39_Logical_operators.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sep/ex_13092024/Lab019.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sep/ex_13092024/Lab019.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,18 +76,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Lab004.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab006.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/admin/IdeaProjects/ATB8xJavaPrograms/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Lab004.executor": "Run",
+    "Application.Lab006.executor": "Run",
+    "Application.Task1.executor": "Run",
+    "Application.Task2.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "C:/Users/admin/IdeaProjects/ATB8xJavaPrograms/src/Main.java",
+    "settings.editor.selected.configurable": "advanced.settings"
   }
-}</component>
-  <component name="RunManager">
+}]]></component>
+  <component name="RunManager" selected="Application.Task1">
     <configuration name="Lab004" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sep.ex_06092024.Lab004" />
       <module name="ATB8xJavaPrograms" />
@@ -81,8 +104,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sep.ex_13092024.Task1" />
+      <module name="ATB8xJavaPrograms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sep.ex_13092024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task1" />
         <item itemvalue="Application.Lab004" />
       </list>
     </recent_temporary>
@@ -120,14 +157,23 @@
       <option name="project" value="LOCAL" />
       <updated>1728140584209</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="11/09/2024 programs">
+      <option name="closed" value="true" />
+      <created>1728142445048</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1728142445048</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="code" />
     <MESSAGE value="06/09/2024 programs" />
     <MESSAGE value="09/09/2024 programs" />
-    <option name="LAST_COMMIT_MESSAGE" value="09/09/2024 programs" />
+    <MESSAGE value="11/09/2024 programs" />
+    <option name="LAST_COMMIT_MESSAGE" value="11/09/2024 programs" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
