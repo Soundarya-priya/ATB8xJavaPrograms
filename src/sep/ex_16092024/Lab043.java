@@ -5,6 +5,7 @@ public class Lab043 {
 
         int a = 12;
         boolean b = !(a>10||a<5);
+        //BODMAS
         System.out.println(b);
     }
 }
