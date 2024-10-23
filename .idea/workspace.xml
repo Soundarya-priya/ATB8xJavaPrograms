@@ -4,35 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e163c468-249b-4df0-bec6-cf81fd768d17" name="Changes" comment="11/09/2024 programs">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sep/ex_13092024/Lab020.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sep/ex_13092024/Lab021.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sep/ex_13092024/Lab022.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sep/ex_13092024/Lab023.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sep/ex_13092024/Lab024.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sep/ex_13092024/Lab025.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sep/ex_13092024/Lab026.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sep/ex_13092024/Lab027.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sep/ex_13092024/Lab028.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sep/ex_13092024/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sep/ex_13092024/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sep/ex_16092024/Lab029.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sep/ex_16092024/Lab030_Assignment_operator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sep/ex_16092024/Lab031_Arithmetic_operators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sep/ex_16092024/Lab032.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sep/ex_16092024/Lab033_Unary_operator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sep/ex_16092024/Lab034.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sep/ex_16092024/Lab035.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sep/ex_16092024/Lab036.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sep/ex_16092024/Lab037_Compund_assignment_operator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sep/ex_16092024/Lab038_Relational_operators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sep/ex_16092024/Lab040.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sep/ex_16092024/Lab041.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sep/ex_16092024/Lab39_Logical_operators.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sep/ex_13092024/Lab019.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sep/ex_13092024/Lab019.java" afterDir="false" />
-    </list>
+    <list default="true" id="e163c468-249b-4df0-bec6-cf81fd768d17" name="Changes" comment="16/09/2024 programs" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,6 +58,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/admin/IdeaProjects/ATB8xJavaPrograms",
     "onboarding.tips.debug.path": "C:/Users/admin/IdeaProjects/ATB8xJavaPrograms/src/Main.java",
     "settings.editor.selected.configurable": "advanced.settings"
   }
@@ -165,7 +138,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728142445048</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="16/09/2024 programs">
+      <option name="closed" value="true" />
+      <created>1728409818684</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1728409818684</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -173,7 +154,8 @@
     <MESSAGE value="06/09/2024 programs" />
     <MESSAGE value="09/09/2024 programs" />
     <MESSAGE value="11/09/2024 programs" />
-    <option name="LAST_COMMIT_MESSAGE" value="11/09/2024 programs" />
+    <MESSAGE value="16/09/2024 programs" />
+    <option name="LAST_COMMIT_MESSAGE" value="16/09/2024 programs" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
